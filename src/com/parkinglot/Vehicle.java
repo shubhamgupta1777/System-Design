@@ -1,4 +1,4 @@
-package com.example.parking;
+package com.parkinglot;
 public abstract class Vehicle {
     private final VehicleType type;
     private final String numberPlate;

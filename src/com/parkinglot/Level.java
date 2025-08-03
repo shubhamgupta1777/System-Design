@@ -1,4 +1,4 @@
-package com.example.parking;
+package com.parkinglot;
 public enum Level {
     FIRST,
     SECOND,

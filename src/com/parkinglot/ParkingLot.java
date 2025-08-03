@@ -1,4 +1,4 @@
-package com.example.parking;
+package com.parkinglot;
 import java.util.*;
 
 public class ParkingLot {

@@ -1,4 +1,4 @@
-package com.example.parking;
+package com.parkinglot;
 public class VehicleFactory {
     public static Vehicle createVehicle(VehicleType type, String numberPlate) {
         switch (type) {

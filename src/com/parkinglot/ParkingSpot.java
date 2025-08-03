@@ -1,4 +1,4 @@
-package com.example.parking;
+package com.parkinglot;
 
 public class ParkingSpot {
     private final String spotId;
